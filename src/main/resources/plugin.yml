@@ -1,0 +1,5 @@
+name: ItemRanks
+version: '${project.version}'
+main: ru.gikexe.itemranks.ItemRanks
+api-version: '1.21'
+authors: [GIKExe]
